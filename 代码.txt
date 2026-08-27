@@ -1,0 +1,8 @@
+#define studio stdio
+#define mian main
+#include<studio.h>
+void（mian）
+{
+printf（"Hello world!\n"）;
+return 0;
+}
